@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # HNT Product Pricing Dashboard
 
@@ -6,7 +6,9 @@
 
 A professional, interactive dashboard built with Power BI and Streamlit to explore product pricing, discounts, and catalogue insights.
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://hnt-pricing-dashboard-by-sakshi.streamlit.app/)
+
+**[🚀 Open Live Dashboard](https://hnt-pricing-dashboard-by-sakshi.streamlit.app/)**
 
 </div>
 
@@ -123,7 +125,9 @@ Open the local URL shown in the terminal to view the dashboard.
 
 ## Deployment
 
-The dashboard can be deployed using **Streamlit Community Cloud**.
+The dashboard is deployed using **Streamlit Community Cloud**.
+
+**Live Dashboard:** [https://hnt-pricing-dashboard-by-sakshi.streamlit.app/](https://hnt-pricing-dashboard-by-sakshi.streamlit.app/)
 
 1. Push the application files to GitHub.
 2. Confirm that `app.py` and `requirements.txt` are present.
@@ -148,5 +152,7 @@ The dashboard can be deployed using **Streamlit Community Cloud**.
 **HNT Product Pricing Dashboard**
 
 *Built with Power BI • Streamlit • Pandas • Plotly*
+
+[🚀 View Live Dashboard](https://hnt-pricing-dashboard-by-sakshi.streamlit.app/)
 
 </div>
